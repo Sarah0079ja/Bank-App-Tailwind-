@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Bank App",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bank App"
+	}
+}
